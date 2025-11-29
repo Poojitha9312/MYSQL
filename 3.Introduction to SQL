@@ -1,0 +1,13 @@
+* SQL stands for structured Query language
+* SQl is known as the Database Language
+* It is used to communicate with any relational database
+* we can use this language construct to write sql queries
+* SQL is designed to manage the data in relational databases like 
+  MYSQL,Oracle,Ms access, SQL server etc...
+* we will write and execute SQL queries that can create, read,update
+  and delete data in Relational databases..
+* SQL is not a Database Management System
+* RDBMS uses SQL to manage the data in database
+* SQL is useful to handle structured data
+* SQL was developed by IBM computer scientist in 1970s..
+* 
